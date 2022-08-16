@@ -20,6 +20,9 @@ Thirdly, choosing the type of mobile robot like 4 wheeled or snake type also var
 
 Lastly, considering all the above scenarios, I have to complete the whole prototyping of this project within 4 months. 
 
+![Sketch model 1 v4](https://user-images.githubusercontent.com/111192825/184883052-52867378-3d41-4b4d-9518-f2fbecef9a40.png)
+
+
  
 
  
