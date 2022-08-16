@@ -19,6 +19,7 @@ Secondly, design of this mobile robot may change based on the locomotion and cle
 Thirdly, choosing the type of mobile robot like 4 wheeled or snake type also varies based on the design. 
 
 Lastly, considering all the above scenarios, I have to complete the whole prototyping of this project within 4 months.
+
 Basic sketches
 ![Sketch model 1 v4](https://user-images.githubusercontent.com/111192825/184883052-52867378-3d41-4b4d-9518-f2fbecef9a40.png)
 
