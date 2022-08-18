@@ -24,10 +24,13 @@ Lastly, considering all the above scenarios, I have to complete the whole protot
 Basic sketches
 ![Sketch model 1 v4](https://user-images.githubusercontent.com/111192825/184883052-52867378-3d41-4b4d-9518-f2fbecef9a40.png)
 
+![IMG_20220818_174540__01](https://user-images.githubusercontent.com/111192825/185393143-3f39dc16-1b0e-48c1-8426-ea740260f562.jpg)
+
+
 ![image](https://user-images.githubusercontent.com/111192825/185309026-980a71ca-52a1-4da5-b43a-894893a52779.png)
 
 
-https://www.youtube.com/watch?v=Z3nRstok2FI
+
 
  
 
