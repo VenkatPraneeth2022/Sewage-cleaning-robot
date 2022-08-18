@@ -1,7 +1,6 @@
 Skill ed 2022
 
 
- A mobile robot, that can clean the sewage from underground pipelines using a cleaning mechanism
 Intro 
 
 Myself, Venkat Praneeth graduated from mechanical engineering field in 2018 at SUNY Farmingdale. Worked as a mechanical designer for one year during 2020 at a startup called Solinas Integrity where we create mobile robots for underground oil and gas pipeline inspections. 
